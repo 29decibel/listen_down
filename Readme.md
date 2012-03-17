@@ -5,4 +5,4 @@
 ruby app.rb beyond
 ```
 ---
-*Just for self pleasure use!*
+*self pleasure use only!*
